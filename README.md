@@ -6,7 +6,7 @@ Usamos:
 
 ## Titulo!
 Otros ejemplos que hay son:<br>*cursiva*<br>**negrita**<br>`codigo`<br>
-Tambien tenemos listas de una fotma mas facil:
+Tambien tenemos listas de una forma mas facil:
 1. ejemplo1
 2. ejemplo2
 3. ejemplo3 
